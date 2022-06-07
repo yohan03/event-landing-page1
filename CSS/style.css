@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+   padding: 0px; 
+}
+.hero{
+    border: 1px solid black;
+    height: 500px;
+    background-image: url(../img/pizza.jpg);
+}
+h1{
+    color: rgb(155, 147, 110);
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+body{
+    background-color: antiquewhite;
+    font-family: sans-serif;
+}
+.thumbnail{
+    height: 200px;
+    width: 200px;
+    
+}
+footer{
+    float: right;
+}
+P{
+    color: rgb(161, 141, 28);
+}
